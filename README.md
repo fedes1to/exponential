@@ -57,7 +57,7 @@ I advocate for FOSS, believe users should own the tech they purchase, and think 
 - **Hobbies:** ⛷️ skiing, mountain biking (want to try), homelab tinkering, iOS jailbreaking & Android rooting, hackintoshing and modifying game consoles
 - **Values:** FOSS advocate, right to repair believer, privacy maximalist, and committed to preserving my culture and roots
 - **Fun facts:** I maintain a fleet of jailbroken iOS devices (from iPhone 4s on iOS 6.1.3 to iPhone 12 mini on iOS 16.6.1), have way too much hardware, including a graveyard of dead laptops I'm slowly repairing
-- **Links:** [Website](https://fedesito.me) · [GitHub](https://github.com/fedes1to) · [YouTube](https://www.youtube.com/@fedes1to) · [SoundCloud](https://soundcloud.com/fedesito) · [Discord](https://discord.gg/RHyZAgxSSD) · Email: fedesito@posteo.es
+- **Links:** [Website](https://fedesito.me) · [GitHub](https://github.com/fedes1to) · [YouTube](https://www.youtube.com/@fedes1to) · [SoundCloud](https://soundcloud.com/fedesito) · Email: fedesito@posteo.es
 
 ### My vision
 
